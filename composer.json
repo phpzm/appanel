@@ -1,0 +1,19 @@
+{
+    "name": "phpzm/appanel",
+    "type": "project",
+    "minimum-stability": "dev",
+    "version": "0.0.1",
+    "license": "",
+    "authors": [
+        {
+            "name": "Matheus Belluzzo",
+            "email": "MatheusBelluzzo@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Appanel\\": "src/"
+        }
+    }
+}
